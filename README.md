@@ -21,7 +21,7 @@ npm install
 
 ## Usage
 
-This is a landing page for Nike. It is a responsive website that can be viewed on any device. It is built with React , Tailwind CSS.
+This is a landing page for Nike. It is a responsive website that can be viewed on any device. It is built with React, Tailwind CSS, and includes localization files for English and French languages.
 
 ## License
 
